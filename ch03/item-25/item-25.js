@@ -1,7 +1,7 @@
 "use strict";
 /*
 Item 25:
-Use Async Functions Instead Of Callbacks
+Use async Functions Instead of Callbacks for Asynchronous Code
 */
 const baseUrl = 'https://swapi.dev/api/people/';
 const url1 = `${baseUrl}1/`;
